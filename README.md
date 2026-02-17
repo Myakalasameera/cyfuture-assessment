@@ -28,9 +28,9 @@ USER INPUT
   Module        Module      Module
       |           |           |           |
       v           v           v           |
-  Learning     Reference   Time per      |
-  Units &      Materials   Topic Unit    |
-  Milestones   & Topics                  |
+  Learning     Reference   Time per       |
+  Units &      Materials   Topic Unit     |
+  Milestones   & Topics                   |
       |           |           |           |
       +-----------+-----------+           |
                   |                       |
@@ -47,8 +47,8 @@ USER INPUT
             |               |             |
             +---------------+             |
                   |                       |
-                  v                       v
-              MEMORY STORE
+                  v                       |
+              MEMORY STORE          <------
           SQLite / Redis / LangChain
                   |
                   v
